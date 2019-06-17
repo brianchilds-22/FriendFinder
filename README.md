@@ -8,7 +8,7 @@ On the survey page the client enters their name and a link to an image. Then the
 
 ![Friend Finder Survey](https://github.com/brianchilds-22/FriendFinder/blob/master/images/Screenshot%20(6).png?raw=true)
 
-Upon completion the app calculates the best match
+Upon completion click the submit button and the app calculates the best match
 
 ![Friend Finder Match](https://github.com/brianchilds-22/FriendFinder/blob/master/images/Screenshot%20(7).png?raw=true)
 
