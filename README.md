@@ -10,6 +10,8 @@ On the survey page the client enters their name and a link to an image. Then the
 
 Upon completion the app calculates the best match
 
+![Friend Finder Survey](https://github.com/brianchilds-22/FriendFinder/blob/master/Screenshot%20(6).png?raw=true)
+
 
 
 [Heroku Link] (https://obscure-spire-48595.herokuapp.com/)
